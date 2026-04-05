@@ -11,3 +11,4 @@ The OpenShift integration for Weblate
 .. image:: https://readthedocs.org/projects/weblate/badge/
     :alt: Documentation
     :target: https://docs.weblate.org/en/latest/admin/install/openshift.html
+
